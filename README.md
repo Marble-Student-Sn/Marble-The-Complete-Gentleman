@@ -48,3 +48,4 @@ Marble-The-Complete-Gentleman/
 ├─ SKILL.md
 ├─ README.md
 └─ LICENSE（可选）
+- [Marble-The-Complete-Gentleman](https://github.com/Marble-Student-Sn/Marble-The-Complete-Gentleman) - 基于真实教师Marble先生风格构建的英语写作导师Skill，包含三层人格：冷面判官、课堂顽童、知心老父亲。
